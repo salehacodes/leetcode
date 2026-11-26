@@ -10,11 +10,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/salehacodes/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/salehacodes/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/salehacodes/leetcode/tree/main/0136-single-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/salehacodes/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1046-last-stone-weight](https://github.com/salehacodes/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/salehacodes/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/salehacodes/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/salehacodes/leetcode/tree/main/0136-single-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/salehacodes/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
